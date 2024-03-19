@@ -1,4 +1,4 @@
-# Ec2
+# EC2
 ## A basic overview of launching, resizing, managing, and monitoring an Amazon EC2 instance.
 ### Task 1: Launch Your Amazon EC2 Instance: will launch an Amazon EC2 instance with termination protection. Termination protection prevents you from accidentally terminating an EC2 instance. You will deploy your instance with a User Data script that will allow you to deploy a simple web server.
 In the AWS Management Console choose  Services, choose Compute, and then choose EC2.
