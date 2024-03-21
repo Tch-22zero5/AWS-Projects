@@ -8,4 +8,4 @@ To simplify the process of infrastructure provisioning, I will employ CloudForma
 
 As an AWS Cloud Solutions Architect, I have developed a GitHub repository that showcases a range of projects successfully implemented in test and other environments. The primary objective of this repository is to demonstrate my expertise in working with AWS products and services and serve as a future reference for troubleshooting and implementation processes for myself and others in this specialization.
 # NOTE
-I mostly use the name **Lab** ( Lab VPC, Lab Subnet, and so on) in all these Projects, you can do the same or choose a preferred name for your configurations.
+I mostly use the name **Lab** ( Lab VPC, Lab Subnet, Lab IGW, and so on) in all these Projects, you can do the same or choose a preferred name for your configurations.
