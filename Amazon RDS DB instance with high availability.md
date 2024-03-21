@@ -5,7 +5,7 @@ Version 4.6.6 (TESS2)
 You start with the following infrastructure (which was created prior with cloud formation):
 ![image](https://github.com/Tch-22zero5/AWS-Projects/assets/140101993/a71b57fb-b75f-4f32-a511-99b190318da9)
 
-At the end of this prject, this is the infrastructure:
+At the end of this project, this is the infrastructure:
 ![image](https://github.com/Tch-22zero5/AWS-Projects/assets/140101993/538e7b4f-12a5-45c8-8392-02e1c6521460)
 # Task 1: Create a Security Group for the RDS DB Instance
 In this task, you will create a security group to allow your web server to access your RDS DB instance. The security group will be used when you launch the database instance.
