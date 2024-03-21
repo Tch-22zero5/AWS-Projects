@@ -1,4 +1,4 @@
-# Architect and Build an End-to-End AWS Web Application from Scratch.
+# Architect and Build an End-to-End AWS Serverless Web Application from Scratch.
 In this tutorial, you will perform an end-to-end serverless deployment of an application using AWS Amplify, Lambda, API Gateway, and AWS RDS.
 
 ![Screenshot (8)](https://github.com/Tch-22zero5/AWS-Projects/assets/140101993/8f3aa3f8-f63e-42fb-8c4e-9db73bcff70a)
