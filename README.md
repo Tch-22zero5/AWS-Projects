@@ -1,4 +1,5 @@
-# AWS-Projects
+# VERY IMPORTANT NOTICE: PLEASE CHECK OUT OTHER REPOS FOR MORE AWS AND MULTI-CLOUD PROJECTS.
+# My AWS-Projects
 ## Overview
 Cloud Computing is the on-demand delivery of computing services especially servers, databases, data storage networking, computing power, and other IT resources via the Internet with pay-as-you-go pricing; It is renting resources on another company's computers whereby you pay for only what you use, which serve as building blocks that will help you meet your business goals and satisfy technology requirements.
 Amazon Web Services (AWS) offers many services in cloud computing and it is chosen by my clients based on flexible, reliable, scalable, easy-to-use, and cost-effective cloud computing solutions that include a mixture of infrastructure as a service, platform as a service, and software as a service offering.
